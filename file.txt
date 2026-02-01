@@ -1,2 +1,4 @@
 First line in file
 second line in file
+this line is in third commit
+and this line is in third commit
